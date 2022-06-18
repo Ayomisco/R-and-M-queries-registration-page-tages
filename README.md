@@ -1,6 +1,6 @@
 Responsiveness and Media Queries Task | Registration Form page design
 
-Link to official site : https://ayomisco.github.io/Responsiveness-and-Media-Queries-task/
+Link to official site : https://ayomisco.github.io/R-and-M-queries-registration-page-tages/
 
 Build a responsive landing page using the [design](https://res.cloudinary.com/dz209s6jk/image/upload/q_auto:good,w_900/Challenges/twtp2gsjsqshh3eyk4xu.jpg).
 
